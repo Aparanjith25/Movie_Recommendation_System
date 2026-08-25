@@ -1,5 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv
 streamlit
 pandas
 numpy
 scikit-learn
 scipy
+requests
